@@ -1,10 +1,28 @@
-## Objetivo geral
+# pacote_idade
 
-  Fazer um pacote para informar a idade do usuário a partir da sua data de nascimento.
+  Um pacote feito para calcular a idade informada pelo usuário.
 
-# Autora
+## Objetivo inicial
+  
+  Fazer um pacote para calcular uma idade, a partir da leitura da data de nascimento do usuário.
 
-Melissa
+## Instalação
+
+  Acesse o [pip](https://) para instalar o pacote_idade.
+
+```bash
+pip install pacote_idade
+```
+
+## Instrução de uso:
+
+```python
+from pacote_idade.calcular_idade import data_nascimento.calculo_idade()
+```
+
+## Autora:
+
+Melissa Batista Junqueira
 
 # Publicar no Test Pypi e Pypi:
 
